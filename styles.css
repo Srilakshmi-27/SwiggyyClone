@@ -1,0 +1,21 @@
+
+.row{
+  background-color: #2b1e16;
+  rgba(43,30,22,255);
+}
+
+.feature-title{
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  color: #FFC288;
+}
+
+.feature-box{
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 2;
+}
